@@ -1,0 +1,15 @@
+D:\Course\15 Task\Http\HttpFundamentals\HttpListener\bin\Debug\net6.0\HttpListener.exe
+D:\Course\15 Task\Http\HttpFundamentals\HttpListener\bin\Debug\net6.0\HttpListener.deps.json
+D:\Course\15 Task\Http\HttpFundamentals\HttpListener\bin\Debug\net6.0\HttpListener.runtimeconfig.json
+D:\Course\15 Task\Http\HttpFundamentals\HttpListener\bin\Debug\net6.0\HttpListener.dll
+D:\Course\15 Task\Http\HttpFundamentals\HttpListener\bin\Debug\net6.0\HttpListener.pdb
+D:\Course\15 Task\Http\HttpFundamentals\HttpListener\obj\Debug\net6.0\HttpListener.csproj.AssemblyReference.cache
+D:\Course\15 Task\Http\HttpFundamentals\HttpListener\obj\Debug\net6.0\HttpListener.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\15 Task\Http\HttpFundamentals\HttpListener\obj\Debug\net6.0\HttpListener.AssemblyInfoInputs.cache
+D:\Course\15 Task\Http\HttpFundamentals\HttpListener\obj\Debug\net6.0\HttpListener.AssemblyInfo.cs
+D:\Course\15 Task\Http\HttpFundamentals\HttpListener\obj\Debug\net6.0\HttpListener.csproj.CoreCompileInputs.cache
+D:\Course\15 Task\Http\HttpFundamentals\HttpListener\obj\Debug\net6.0\HttpListener.dll
+D:\Course\15 Task\Http\HttpFundamentals\HttpListener\obj\Debug\net6.0\refint\HttpListener.dll
+D:\Course\15 Task\Http\HttpFundamentals\HttpListener\obj\Debug\net6.0\HttpListener.pdb
+D:\Course\15 Task\Http\HttpFundamentals\HttpListener\obj\Debug\net6.0\HttpListener.genruntimeconfig.cache
+D:\Course\15 Task\Http\HttpFundamentals\HttpListener\obj\Debug\net6.0\ref\HttpListener.dll

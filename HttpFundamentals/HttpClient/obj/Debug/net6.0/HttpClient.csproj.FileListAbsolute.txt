@@ -1,0 +1,15 @@
+D:\Course\15 Task\Http\HttpFundamentals\HttpClient\bin\Debug\net6.0\HttpClient.exe
+D:\Course\15 Task\Http\HttpFundamentals\HttpClient\bin\Debug\net6.0\HttpClient.deps.json
+D:\Course\15 Task\Http\HttpFundamentals\HttpClient\bin\Debug\net6.0\HttpClient.runtimeconfig.json
+D:\Course\15 Task\Http\HttpFundamentals\HttpClient\bin\Debug\net6.0\HttpClient.dll
+D:\Course\15 Task\Http\HttpFundamentals\HttpClient\bin\Debug\net6.0\HttpClient.pdb
+D:\Course\15 Task\Http\HttpFundamentals\HttpClient\obj\Debug\net6.0\HttpClient.csproj.AssemblyReference.cache
+D:\Course\15 Task\Http\HttpFundamentals\HttpClient\obj\Debug\net6.0\HttpClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\15 Task\Http\HttpFundamentals\HttpClient\obj\Debug\net6.0\HttpClient.AssemblyInfoInputs.cache
+D:\Course\15 Task\Http\HttpFundamentals\HttpClient\obj\Debug\net6.0\HttpClient.AssemblyInfo.cs
+D:\Course\15 Task\Http\HttpFundamentals\HttpClient\obj\Debug\net6.0\HttpClient.csproj.CoreCompileInputs.cache
+D:\Course\15 Task\Http\HttpFundamentals\HttpClient\obj\Debug\net6.0\HttpClient.dll
+D:\Course\15 Task\Http\HttpFundamentals\HttpClient\obj\Debug\net6.0\refint\HttpClient.dll
+D:\Course\15 Task\Http\HttpFundamentals\HttpClient\obj\Debug\net6.0\HttpClient.pdb
+D:\Course\15 Task\Http\HttpFundamentals\HttpClient\obj\Debug\net6.0\HttpClient.genruntimeconfig.cache
+D:\Course\15 Task\Http\HttpFundamentals\HttpClient\obj\Debug\net6.0\ref\HttpClient.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.33530.394
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpListener", "HttpListener\HttpListener.csproj", "{3F7614F5-B90D-4525-A91E-791FB2CDA019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClient", "HttpClient\HttpClient.csproj", "{57577B1E-C925-46D1-B551-80F6A732613A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F7614F5-B90D-4525-A91E-791FB2CDA019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F7614F5-B90D-4525-A91E-791FB2CDA019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F7614F5-B90D-4525-A91E-791FB2CDA019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F7614F5-B90D-4525-A91E-791FB2CDA019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57577B1E-C925-46D1-B551-80F6A732613A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57577B1E-C925-46D1-B551-80F6A732613A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57577B1E-C925-46D1-B551-80F6A732613A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57577B1E-C925-46D1-B551-80F6A732613A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78EF0609-F3F3-42AF-B6D4-2FD38FEEEC4F}
+	EndGlobalSection
+EndGlobal
