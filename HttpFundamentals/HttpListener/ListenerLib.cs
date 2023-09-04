@@ -14,10 +14,13 @@ public class ListenerLib
             var request = context.Request;  // получаем данные запроса
             var response = context.Response;    // получаем объект для установки ответа
             string path = request.RawUrl.ToString();
+            Console.WriteLine(path);
             string responseString = path == "/MyName/" ? "Aliya" : path;
+            Console.WriteLine(responseString);
             SetStatus(response, path);
             GetMyNameByHeader(response, path);
             MyNameByCookies(response, path);
+
             byte[] buffer = Encoding.UTF8.GetBytes(responseString);
             response.ContentLength64 = buffer.Length;
             System.IO.Stream output = response.OutputStream;
@@ -39,7 +42,7 @@ public class ListenerLib
         switch (ParsePath(path))
         {
             case "Information":
-                response.StatusCode = 100;
+                response.StatusCode = 200;
                 break;
             case "Success":
             case "MyNameByHeader":
